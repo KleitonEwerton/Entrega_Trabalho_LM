@@ -1,0 +1,2 @@
+file teste.txt: 362 sentences, 7087 words, 1536 OOVs
+0 zeroprobs, logprob= -13988.21 ppl= 232.0972 ppl1= 331.0881
